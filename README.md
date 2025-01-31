@@ -12,7 +12,7 @@ Cafebar es una aplicación para gestionar un café-bar, permitiendo a los usuari
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/yohana993/cafebar.git
+   git clone https://github.com/l14sfv/Cafe-Bar.git
 Navega al directorio del proyecto:
 cd cafebar
 Instala las dependencias:
